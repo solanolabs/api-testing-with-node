@@ -1,0 +1,6 @@
+---
+:tddium:
+  :hooks:
+    :pre_setup: "npm install"
+  :tests:
+    - "mocha test/*.js"
